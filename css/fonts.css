@@ -7,6 +7,32 @@
 /*
  * lora
 ================================================================================ */
+
+@font-face {
+    font-family: "Uni-Sans-Heavy";
+    src: url("../fonts/unisans/Uni-Sans-Heavy.woff2") format("woff2"), url("../fonts/unisans/Uni-Sans-Heavy.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+
+@font-face {
+    font-family: "UniSansBold";
+    src: url("../fonts/unisans/UniSansBold.woff2") format("woff2"), url("../fonts/unisans/UniSansBold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+
+@font-face {
+    font-family: "UniSansRegular";
+    src: url("../fonts/unisans/UniSansRegular.woff2") format("woff2"), url("../fonts/unisans/UniSansRegular.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
 @font-face {
     font-family: "lora-regular";
     src: url("../fonts/lora/lora-regular-webfont.woff2") format("woff2"), url("../fonts/lora/lora-regular-webfont.woff") format("woff");
